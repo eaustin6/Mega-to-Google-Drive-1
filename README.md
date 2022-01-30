@@ -3,7 +3,7 @@ A Simple and User-Friendly Google Collab Notebook with UI to transfer your data 
 
 ## ⚙️ How to Use ? 
 <h4> 1.First Open the Code in Google Collab! <a href="https://colab.research.google.com/github/TheCaduceus/Mega-to-Google-Drive/blob/main/Mega_downloader.ipynb">Open Code</a> </h4>
-<h4> 2.It is too Simple! First Choose "Mount" from the Dropdown list in Google Drive Section and click on play button. </h4>
+<h4> 2.It is too Simple! Choose "Mount" from the Dropdown list in Google Drive Section and click on play button. </h4>
 <h4> 3.Choose where to save mega file in Google Drive. </h4>
 <img src="https://github.com/TheCaduceus/Mega-to-Google-Drive/blob/main/img/70.png?raw=true">
 <h4> 4.Now Enter the Mega File Link which needs to be uploaded to Google Drive and click on the play button</h4>
