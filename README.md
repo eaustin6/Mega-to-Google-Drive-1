@@ -15,7 +15,7 @@ A Simple and User-Friendly Google Collab Notebook with UI to transfer your data 
 <h4> This code do not share even a single piece of data to any third party source and not create any log of that!🔑</h4>
 <h4> Do not trust any other copy of this Code.📚</h4>
 <h2> Download 📥</h2>
-<h4> You can also Download this GitHub Repository as (.zip) file.</h4>
+<h4> You can also Download this GitHub Repository as (.zip) file:</h4>
 <h4> <a href="https://github.com/TheCaduceus/Mega-to-Google-Drive/archive/refs/heads/main.zip">Download Now</a></h4>
 <h2>Credits & Thanks ❤️</h2>
 <p><a href="https://github.com/TheCaduceus">Dr.Caduceus</a>: For making UI and Collab Notebook.</p>
