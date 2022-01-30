@@ -9,7 +9,7 @@ A Simple and User-Friendly Google Collab Notebook with UI to transfer your data 
 <h4> 4.Now Enter the Mega File Link which needs to be uploaded to Google Drive and click on the play button</h4>
 <h4> 5.Finally! Wait until the File got uploaded </h4>
 <img src="https://github.com/TheCaduceus/Mega-to-Google-Drive/blob/main/img/71.png?raw=true">
-<h5> <b><i>NOTE: You can upload files of max 5GB/Day because of the restriction set by Mega.nz</i></b></h5>
+<h5> <b><i>❗NOTE: You can upload files of max 5GB/Day because of the restriction set by Mega.nz❗</i></b></h5>
 <h2> 🔐 Safe or Not? ✅</h2>
 <h4> Don't Worry! No data will be shared with anyone, if you use the <a href="https://github.com/TheCaduceus/Mega-to-Google-Drive">Original code</a>.🔒</h4>
 <h4> This code do not share even a single piece of data to any third party source and not create any log of that!🔑</h4>
