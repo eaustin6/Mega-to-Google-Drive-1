@@ -1,4 +1,6 @@
-# Images Used 📥: Why you are viewing this! Totally useless (For Record only!)
+# Images Used 📥:
+
+Why you are viewing this! It is totally Useless (For Record only!)
 
 [Image 1:](https://github.com/TheCaduceus/Mega-to-Google-Drive/blob/main/img/70.png?raw=true) (MD 1)
 
