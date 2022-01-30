@@ -1,4 +1,4 @@
-# Mega to Google Drive (With UI)
+# Mega to Google Drive (UI Added!😊)
 A Simple and User-Friendly Google Collab Notebook with UI to transfer your data from Mega to Google Drive.
 
 ## How to Use ?
