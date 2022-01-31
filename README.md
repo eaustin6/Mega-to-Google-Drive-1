@@ -16,6 +16,11 @@ A Simple and User-Friendly Google Collab Notebook with UI to transfer your data 
 <img src="https://github.com/TheCaduceus/Mega-to-Google-Drive/blob/main/img/71.png?raw=true">
 <h4> 6.Run the Timeout Preventer after executing above Codes to prevent Google Colab from getting Timeout. (Optional)</h4>
 <h5> <b><i>❗NOTE: You can upload files of max 5GB/Day because of the restriction set by Mega.nz❗</i></b></h5>
+<h2>📂 Upload to Shared or Team Drives</h2>
+<h4>1.From Dropdown list in Shared Drive Section as shown in the Image select "Mount" and Click "Play Code" button.</h4>
+<img src="https://github.com/TheCaduceus/Mega-to-Google-Drive/blob/main/img/73.png?raw=true">
+<h4>2.Now Copy "gdrive/Shared drives/NAME" without "" and paste in "OUTPUT PATH" and replace NAME with The Shared Drive name in which you want to Upload mega file, for example if the NAME of Shared Drive is "Local Disk 2" then type "gdrive/Shared drives/Local Disk 2" with space and click "Play Code" button as shown in the Image.</h4>
+<img src="https://github.com/TheCaduceus/Mega-to-Google-Drive/blob/main/img/74.png?raw=true">
 <h2> 🔐 Safe or Not? ✅</h2>
 <h4> Don't Worry! No data will be shared with anyone, if you use the <a href="https://github.com/TheCaduceus/Mega-to-Google-Drive">Original code</a>.🔒</h4>
 <h4> This code do not share even a single piece of data to any third party source and not create any log of that!🔑</h4>
