@@ -17,7 +17,7 @@ A Simple and User-Friendly Google Collab Notebook with UI to transfer your data 
 <h4> Don't Worry! No data will be shared with anyone, if you use the <a href="https://github.com/TheCaduceus/Mega-to-Google-Drive">Original code</a>.🔒</h4>
 <h4> This code do not share even a single piece of data to any third party source and not create any log of that!🔑</h4>
 <h4> Do not trust any other copy of this Code.📚</h4>
-<h2> Why Use This?</h2>
+<h2> 🤔 Why Use This?</h2>
 <h4>If you use Google Collab for Long term use, then you can understand that it requires Human Interaction atleast one time per 90 Minutes! Otherwise it will cancel the task and all your Work will got failed! But this Repository comes with the code which prevent this. Yes you heard it right just click on the "Play Code Button" of last Cell and then don't worry about time out!</h4>
 <h2> 📥Download</h2>
 <h4> You can also Download this GitHub Repository as (.zip) file:</h4>
