@@ -5,6 +5,7 @@ A Simple and User-Friendly Google Collab Notebook with UI to transfer your data 
 <h4>1.Added Time Out Preventer!😀 (See Step 6)</h4>
 <h4>2.Fixed a Mounting Issue!😅</h4>
 <h4>3.Added Shared Drives Support!😉</h4>
+<h4>4.Fixed Output Error in Shared Drives!😑</h4>
 
 ## ⚙️ How to Use ? 
 <h4> 1.First Open the Code in Google Collab! <a href="https://colab.research.google.com/github/TheCaduceus/Mega-to-Google-Drive/blob/main/Mega_downloader.ipynb">Open Code</a> </h4>
