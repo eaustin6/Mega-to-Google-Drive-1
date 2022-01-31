@@ -2,7 +2,7 @@
 A Simple and User-Friendly Google Collab Notebook with UI to transfer your data from Mega to Google Drive.
 
 ## 🆕What's New?🆕
-<h4>1.Added Time Out Preventer!😀</h4>
+<h4>1.Added Time Out Preventer!😀 (See Step 6)</h4>
 
 ## ⚙️ How to Use ? 
 <h4> 1.First Open the Code in Google Collab! <a href="https://colab.research.google.com/github/TheCaduceus/Mega-to-Google-Drive/blob/main/Mega_downloader.ipynb">Open Code</a> </h4>
