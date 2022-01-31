@@ -12,7 +12,8 @@ A Simple and User-Friendly Google Collab Notebook with UI to transfer your data 
 <h4> 2.It is too Simple! Choose "Mount" from the Dropdown list in Google Drive Section and click on play button. </h4>
 <h4> 3.Choose where to save mega file in Google Drive.(By Default My Drive is selected) </h4>
 <img src="https://github.com/TheCaduceus/Mega-to-Google-Drive/blob/main/img/70.png?raw=true">
-<h4> 4.Now Enter the Mega File Link which needs to be uploaded to Google Drive and click on the play button</h4>
+<h4> 4.1-Now Enter the Mega File Link which needs to be uploaded to Google Drive.</h4>
+<h4> 4.2-After this Enter OUTPUT_PATH (Where to upload?) if you want to upload in My Drive then enter "/content/drive/My Drive/", or if you want to upload files in Shared Drives then see below <a href="#-upload-to-shared-or-team-drives">Section!</a></h4>
 <h4> 5.Finally! Wait until the File got uploaded </h4>
 <img src="https://github.com/TheCaduceus/Mega-to-Google-Drive/blob/main/img/71.png?raw=true">
 <h4> 6.Run the Timeout Preventer after executing above Codes to prevent Google Colab from getting Timeout. (Optional)</h4>
