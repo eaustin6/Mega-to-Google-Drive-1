@@ -35,7 +35,7 @@ A Simple and User-Friendly Google Collab Notebook with UI to transfer your data 
 <h4>3.OUTPUT_PATH: Location or Address where a File will be downloaded.</h4>
 <h4>4.URL: Link of File uploaded on MEGA CLOUD SERVICE.</h4>
 <h4>5.MyDrive_PATH: Path of My Drive to download files in it.</h4>
-<h4>6.SharedDrive_PATH: Path of Shared Drive to download files in it./h4>
+<h4>6.SharedDrive_PATH: Path of Shared Drive to download files in it.</h4>
 <h2> 🔐 Safe or Not? ✅</h2>
 <h4> Don't Worry! No data will be shared with anyone, if you use the <a href="https://github.com/TheCaduceus/Mega-to-Google-Drive">Original code</a>.🔒</h4>
 <h4> This code do not share even a single piece of data to any third party source and not create any log of that!🔑</h4>
