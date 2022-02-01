@@ -24,6 +24,7 @@ A Simple and User-Friendly Google Collab Notebook with UI to transfer your data 
 <h4> 6.After copying NAME of Shared Drives Paste in the "Path for Shared Drives" Section by Replacing "SHARED DRIVE NAME" and copy the Complete PATH!</h4>
 <img src="https://github.com/TheCaduceus/Mega-to-Google-Drive/blob/main/img/79.png">
 <h4> 7.After Copying PATH for My Drive and Shared Drive! Copy the File URL/LINK (Stored in MEGA) which needs to be downloaded and paste it in URL then again paste the PATH which you copied from the Above Steps and paste it in OUTPUT_PATH and click "Play Code" button.</h4>
+<img src="https://github.com/TheCaduceus/Mega-to-Google-Drive/blob/main/img/50.png">
 <h4> 8.Finally! Wait for the File to be downloaded in your Google Drive.</h4>
 <h4> 9.Run the Timeout Preventer after executing above Codes to prevent Google Colab from getting Timeout. (Optional)</h4>
 <h5> <b><i>❗NOTE: You can upload files of max 20GB/Day because of the restriction set by Mega.nz❗</i></b></h5>
@@ -34,7 +35,6 @@ A Simple and User-Friendly Google Collab Notebook with UI to transfer your data 
 <h4>4.URL: Link of File uploaded on MEGA CLOUD SERVICE.</h4>
 <h4>5.MyDrive_PATH: Path of My Drive to download files in it.</h4>
 <h4>6.SharedDrive_PATH: Path of Shared Drive to download files in it./h4>
-<img src="https://github.com/TheCaduceus/Mega-to-Google-Drive/blob/main/img/74.png">
 <h2> 🔐 Safe or Not? ✅</h2>
 <h4> Don't Worry! No data will be shared with anyone, if you use the <a href="https://github.com/TheCaduceus/Mega-to-Google-Drive">Original code</a>.🔒</h4>
 <h4> This code do not share even a single piece of data to any third party source and not create any log of that!🔑</h4>
