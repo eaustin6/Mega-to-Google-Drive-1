@@ -14,15 +14,15 @@ A Simple and User-Friendly Google Collab Notebook with UI to transfer your data 
 ## ⚙️ How to Use ? 
 <h4> 1.First Open the Code in Google Collab! <a href="https://colab.research.google.com/github/TheCaduceus/Mega-to-Google-Drive/blob/main/Mega_downloader.ipynb">Open Code</a> </h4>
 <h4> 2.It is too Simple! Choose "Mount" from the Dropdown list in "Connect Google Account" Section and click on play button. </h4>
-<img src="75">
+<img src="https://github.com/TheCaduceus/Mega-to-Google-Drive/blob/main/img/75.png">
 <h4> 3.If you want then you can also Check from which Speed Google is going to Transfer your Data!</h4>
-<img src="76">
+<img src="https://github.com/TheCaduceus/Mega-to-Google-Drive/blob/main/img/76.png">
 <h4> 4.Now if you want to download file to My Drive then just copy the PATH as shown in the Image and go to STEP 7! While If you want to upload file to Shared Drive then copy the SHARED DRIVE NAME without (' ') by running the Code and read 5-6 STEP.</h4>
-<img src="77">
+<img src="https://github.com/TheCaduceus/Mega-to-Google-Drive/blob/main/img/77.png">
 <h4> 5.After Running Code in STEP 4 you will see NAME of Available Shared Drives in your account, Just copy the NAME without (' ').</a></h4>
-<img src="78">
+<img src="https://github.com/TheCaduceus/Mega-to-Google-Drive/blob/main/img/78.png">
 <h4> 6.After copying NAME of Shared Drives Paste in the "Path for Shared Drives" Section by Replacing "SHARED DRIVE NAME" and copy the Complete PATH!</h4>
-<img src="79">
+<img src="https://github.com/TheCaduceus/Mega-to-Google-Drive/blob/main/img/79.png">
 <h4> 7.After Copying PATH for My Drive and Shared Drive! Copy the File URL/LINK (Stored in MEGA) which needs to be downloaded and paste it in URL then again paste the PATH which you copied from the Above Steps and paste it in OUTPUT_PATH and click "Play Code" button.</h4>
 <h4> 8.Finally! Wait for the File to be downloaded in your Google Drive.</h4>
 <h4> 9.Run the Timeout Preventer after executing above Codes to prevent Google Colab from getting Timeout. (Optional)</h4>
