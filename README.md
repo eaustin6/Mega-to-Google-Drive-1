@@ -6,7 +6,7 @@ A Simple and User-Friendly Google Collab Notebook with UI to transfer your data 
 <h4>2.Enhanced Timeout Preventer!😊</h4>
 <h4>3.Added PATH Generator!😁</h4>
 <h4>4.Integreated Speed Tester!😎</h4>
-<h4>5.Added Time Out Preventer!😀 (See Step 6)</h4>
+<h4>5.Added Time Out Preventer!😀</h4>
 <h4>6.Fixed a Mounting Issue!😅</h4>
 <h4>7.Added Shared Drives Support!😉</h4>
 <h4>8.Fixed Output Error in Shared Drives!😑</h4>
