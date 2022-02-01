@@ -11,18 +11,18 @@ A Simple and User-Friendly Google Collab Notebook with UI to transfer your data 
 <h4> 1.First Open the Code in Google Collab! <a href="https://colab.research.google.com/github/TheCaduceus/Mega-to-Google-Drive/blob/main/Mega_downloader.ipynb">Open Code</a> </h4>
 <h4> 2.It is too Simple! Choose "Mount" from the Dropdown list in Google Drive Section and click on play button. </h4>
 <h4> 3.Choose where to save mega file in Google Drive.(By Default My Drive is selected) </h4>
-<img src="https://github.com/TheCaduceus/Mega-to-Google-Drive/blob/main/img/70.png?raw=true">
+<img src="https://github.com/TheCaduceus/Mega-to-Google-Drive/blob/main/img/70.png">
 <h4> 4.1-Now Enter the Mega File Link which needs to be uploaded to Google Drive.</h4>
 <h4> 4.2-After this Enter OUTPUT_PATH (Where to upload?) if you want to upload in My Drive then enter "/content/drive/My Drive/", or if you want to upload files in Shared Drives then see below <a href="#-upload-to-shared-or-team-drives">Section!</a></h4>
 <h4> 5.Finally! Wait until the File got uploaded </h4>
-<img src="https://github.com/TheCaduceus/Mega-to-Google-Drive/blob/main/img/71.png?raw=true">
+<img src="https://github.com/TheCaduceus/Mega-to-Google-Drive/blob/main/img/71.png">
 <h4> 6.Run the Timeout Preventer after executing above Codes to prevent Google Colab from getting Timeout. (Optional)</h4>
 <h5> <b><i>❗NOTE: You can upload files of max 5GB/Day because of the restriction set by Mega.nz❗</i></b></h5>
 <h2>📂 Upload to Shared or Team Drives</h2>
 <h4>1.From Dropdown list in Shared Drive Section as shown in the Image select "Mount" and Click "Play Code" button.</h4>
-<img src="https://github.com/TheCaduceus/Mega-to-Google-Drive/blob/main/img/73.png?raw=true">
+<img src="https://github.com/TheCaduceus/Mega-to-Google-Drive/blob/main/img/73.png">
 <h4>2.Now Copy "gdrive/Shared drives/NAME" without "" and paste in "OUTPUT PATH" and replace NAME with The Shared Drive name in which you want to Upload mega file, for example if the NAME of Shared Drive is "Local Disk 2" then type "gdrive/Shared drives/Local Disk 2" with space and click "Play Code" button as shown in the Image.</h4>
-<img src="https://github.com/TheCaduceus/Mega-to-Google-Drive/blob/main/img/74.png?raw=true">
+<img src="https://github.com/TheCaduceus/Mega-to-Google-Drive/blob/main/img/74.png">
 <h2> 🔐 Safe or Not? ✅</h2>
 <h4> Don't Worry! No data will be shared with anyone, if you use the <a href="https://github.com/TheCaduceus/Mega-to-Google-Drive">Original code</a>.🔒</h4>
 <h4> This code do not share even a single piece of data to any third party source and not create any log of that!🔑</h4>
