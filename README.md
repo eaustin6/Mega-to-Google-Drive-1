@@ -26,6 +26,7 @@ A Simple and User-Friendly Google Collab Notebook with UI to transfer your data 
 <h4> 7.After Copying PATH for My Drive and Shared Drive! Copy the File URL/LINK (Stored in MEGA) which needs to be downloaded and paste it in URL then again paste the PATH which you copied from the Above Steps and paste it in OUTPUT_PATH and click "Play Code" button.</h4>
 <img src="https://github.com/TheCaduceus/Mega-to-Google-Drive/blob/main/img/50.png">
 <h4> 8.Finally! Wait for the File to be downloaded in your Google Drive.</h4>
+<img src="ttps://github.com/TheCaduceus/Mega-to-Google-Drive/blob/main/img/52.png">
 <h4> 9.Run the Timeout Preventer after executing above Codes to prevent Google Colab from getting Timeout. (Optional)</h4>
 <img src="https://github.com/TheCaduceus/Mega-to-Google-Drive/blob/main/img/51.png">
 <h5> <b><i>❗NOTE: You can upload files of max 20GB/Day because of the restriction set by Mega.nz❗</i></b></h5>
