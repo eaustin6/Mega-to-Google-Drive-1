@@ -16,7 +16,7 @@ A Simple and User-Friendly Google Collab Notebook with UI to transfer your data 
 <h4> 2.It is too Simple! Choose "Mount" from the Dropdown list in "Connect Google Account" Section and click on play button. </h4>
 <img src="https://thecaduceus.github.io/Mega-to-Google-Drive/img/75.png" alt="75"> 
 <h4> 3.Now run the Timeout preventer to prevent Google Colab from getting Time out!</h4>
-<img src="https://thecaduceus.github.io/Mega-to-Google-Drive/img/21.png" alt="21">
+<img src="https://thecaduceus.github.io/Mega-to-Google-Drive/img/51.png" alt="51">
 <h4> 4.If you want then you can also Check from which Speed Google is going to Transfer your Data!</h4>
 <img src="https://thecaduceus.github.io/Mega-to-Google-Drive/img/76.png" alt="76">
 <h4> 5.Now if you want to download file to My Drive then just copy the PATH as shown in the Image and go to STEP 7! While If you want to upload file to Shared Drive then copy the SHARED DRIVE NAME without (' ') by running the Code and read 5-6 STEP.</h4>
