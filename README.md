@@ -14,21 +14,21 @@ A Simple and User-Friendly Google Collab Notebook with UI to transfer your data 
 ## ⚙️ How to Use ? 
 <h4> 1.First Open the Code in Google Collab! <a href="https://colab.research.google.com/github/TheCaduceus/Mega-to-Google-Drive/blob/main/Mega_downloader.ipynb">Open Code</a> </h4>
 <h4> 2.It is too Simple! Choose "Mount" from the Dropdown list in "Connect Google Account" Section and click on play button. </h4>
-<img src="https://thecaduceus.github.io/Mega-to-Google-Drive/img/75.png" alt="75"> 
+<img src="/img/75.png" alt="75"> 
 <h4> 3.Now run the Timeout preventer to prevent Google Colab from getting Time out!</h4>
-<img src="https://thecaduceus.github.io/Mega-to-Google-Drive/img/51.png" alt="51">
+<img src="/img/51.png" alt="51">
 <h4> 4.If you want then you can also Check from which Speed Google is going to Transfer your Data!</h4>
-<img src="https://thecaduceus.github.io/Mega-to-Google-Drive/img/76.png" alt="76">
+<img src="/img/76.png" alt="76">
 <h4> 5.Now if you want to download file to My Drive then just copy the PATH as shown in the Image and go to STEP 7! While If you want to upload file to Shared Drive then copy the SHARED DRIVE NAME without (' ') by running the Code and read 5-6 STEP.</h4>
-<img src="https://thecaduceus.github.io/Mega-to-Google-Drive/img/77.png" alt="77">
+<img src="/img/77.png" alt="77">
 <h4> 6.After Running Code in STEP 4 you will see NAME of Available Shared Drives in your account, Just copy the NAME without (' ').</h4>
-<img src="https://thecaduceus.github.io/Mega-to-Google-Drive/img/78.png" alt="78">
+<img src="/img/78.png" alt="78">
 <h4> 7.After copying NAME of Shared Drives Paste in the "Path for Shared Drives" Section by Replacing "SHARED DRIVE NAME" and copy the Complete PATH!</h4>
-<img src="https://thecaduceus.github.io/Mega-to-Google-Drive/img/79.png" alt="79">
+<img src="/img/79.png" alt="79">
 <h4> 8.After Copying PATH for My Drive and Shared Drive! Copy the File URL/LINK (Stored in MEGA) which needs to be downloaded and paste it in URL then again paste the PATH which you copied from the Above Steps and paste it in OUTPUT_PATH and click "Play Code" button.</h4>
-<img src="https://thecaduceus.github.io/Mega-to-Google-Drive/img/50.png" alt="50">
+<img src="/img/50.png" alt="50">
 <h4> 9.Finally! Wait for the File to be downloaded in your Google Drive.</h4>
-<img src="https://thecaduceus.github.io/Mega-to-Google-Drive/img/52.png" alt="52">
+<img src="/img/52.png" alt="52">
 <h5> <b><i>❗NOTE: You can upload files of max 20GB/Day because of the restriction set by Mega.nz❗</i></b></h5>
 <h2>〽️Variables Used</h2>
 <h4>1.SHARED DRIVE NAME: Replace with the Shared Drive name in which file needs to be downloaded.</h4>
