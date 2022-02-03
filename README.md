@@ -21,7 +21,7 @@ A Simple and User-Friendly Google Collab Notebook with UI to transfer your data 
 <img src="https://thecaduceus.github.io/Mega-to-Google-Drive/img/76.png" alt="76">
 <h4> 5.Now if you want to download file to My Drive then just copy the PATH as shown in the Image and go to STEP 7! While If you want to upload file to Shared Drive then copy the SHARED DRIVE NAME without (' ') by running the Code and read 5-6 STEP.</h4>
 <img src="https://thecaduceus.github.io/Mega-to-Google-Drive/img/77.png" alt="77">
-<h4> 6.After Running Code in STEP 4 you will see NAME of Available Shared Drives in your account, Just copy the NAME without (' ').</a></h4>
+<h4> 6.After Running Code in STEP 4 you will see NAME of Available Shared Drives in your account, Just copy the NAME without (' ').</h4>
 <img src="https://thecaduceus.github.io/Mega-to-Google-Drive/img/78.png" alt="78">
 <h4> 7.After copying NAME of Shared Drives Paste in the "Path for Shared Drives" Section by Replacing "SHARED DRIVE NAME" and copy the Complete PATH!</h4>
 <img src="https://thecaduceus.github.io/Mega-to-Google-Drive/img/79.png" alt="79">
