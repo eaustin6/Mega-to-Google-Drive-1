@@ -2,6 +2,10 @@
 A Simple and User-Friendly Google Collab Notebook with UI to transfer your data from Mega to Google Drive.
 
 ## 🆕What's New?🆕
+<p><b><i>v2.2.3</i></b></p>
+<h4><b>1.Now User can move unlimited files from MEGA</b></h4>
+<h4><b>2.Now Move Folders at once using its link</b></h4>
+<p><b><i>v2.2.2</i></b></p>
 <h4>1.Added New Timeout Preventer Advanced!😊</h4>
 <h4>2.Direct Google Account Login!🤩</h4>
 <h4>3.Added PATH Generator!😁</h4>
@@ -29,7 +33,6 @@ A Simple and User-Friendly Google Collab Notebook with UI to transfer your data 
 <img src="img/50.png" alt="50">
 <h4> 9.Finally! Wait for the File to be downloaded in your Google Drive.</h4>
 <img src="img/52.png" alt="52">
-<h5> <b><i>❗NOTE: You can upload files of max 20GB/Day because of the restriction set by Mega.nz❗</i></b></h5>
 <h2>〽️Variables Used</h2>
 <h4>1.SHARED DRIVE NAME: Replace with the Shared Drive name in which file needs to be downloaded.</h4>
 <h4>2.PATH: Location or Address of particular File or Folder.</h4>
@@ -46,7 +49,8 @@ A Simple and User-Friendly Google Collab Notebook with UI to transfer your data 
 <h2> 📥Download</h2>
 <h4> You can also Download this GitHub Repository as (.zip) file:</h4>
 <h4> Available Versions for Download: </h4>
-<h4> v2.2.2:<a href="https://github.com/TheCaduceus/Mega-to-Google-Drive/archive/refs/tags/v2.2.2.zip"> Download Now</a> (Latest)</h4>
+<h4> v2.2.3<a href="https://github.com/TheCaduceus/Mega-to-Google-Drive/archive/refs/tags/v2.2.3.zip"> Download Now</a> (Latest)</h4>
+<h4> v2.2.2:<a href="https://github.com/TheCaduceus/Mega-to-Google-Drive/archive/refs/tags/v2.2.2.zip"> Download Now</a></h4>
 <h4> v2.2.1:<a href="https://github.com/TheCaduceus/Mega-to-Google-Drive/archive/refs/tags/v2.2.1.zip"> Download Now</a></h4>
 <h2>⛑Contact Us!</h2>
 <h4>Join our Update Channel at Telegram:<a href="https://telegram.me/TheCaduceusUPDATE"> Join Now!</a>
