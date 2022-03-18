@@ -3,7 +3,6 @@ A Simple and User-Friendly Google Collab Notebook with UI to transfer your data 
 
 ## 🆕What's New?🆕
 <p><b><i>v2.2.3</i></b></p>
-<h4><b>1.Now User can move unlimited files from MEGA</b></h4>
 <h4><b>2.Now Move Folders at once using its link</b></h4>
 <p><b><i>v2.2.2</i></b></p>
 <h4>1.Added New Timeout Preventer Advanced!😊</h4>
