@@ -2,6 +2,8 @@
 A Simple and User-Friendly Google Collab Notebook with UI to transfer your data from Mega to Google Drive.
 
 ## 🆕What's New?🆕
+<p><b><i>v2.2.4</i></b></p>
+<h4><b>1.Now use your MEGA Premium account too!</b></h4>
 <p><b><i>v2.2.3</i></b></p>
 <h4><b>1.Now Move Folders at once using its link</b></h4>
 <p><b><i>v2.2.2</i></b></p>
@@ -32,6 +34,8 @@ A Simple and User-Friendly Google Collab Notebook with UI to transfer your data 
 <img src="img/50.png" alt="50">
 <h4> 9.Finally! Wait for the File to be downloaded in your Google Drive.</h4>
 <img src="img/52.png" alt="52">
+<h4> 10.Also! If you have MEGA Premium account then you can transfer unlimited Data from MEGA! Before starting transfer, Login with the code as shown in the Image.</h4>
+<img src="img/53.png" alt="53">
 <h2>〽️Variables Used</h2>
 <h4>1.SHARED DRIVE NAME: Replace with the Shared Drive name in which file needs to be downloaded.</h4>
 <h4>2.PATH: Location or Address of particular File or Folder.</h4>
