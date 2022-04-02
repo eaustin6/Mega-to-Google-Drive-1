@@ -53,7 +53,7 @@ A Simple and User-Friendly Google Collab Notebook with UI to transfer your data 
 <h4> You can also Download this GitHub Repository as (.zip) file:</h4>
 <h4> Available Versions for Download: </h4>
 <h4> v2.2.4<a href="https://github.com/TheCaduceus/Mega-to-Google-Drive/archive/refs/tags/v2.2.4.zip"> Download Now</a> (Latest)</h4>
-<h4> v2.2.3<a href="https://github.com/TheCaduceus/Mega-to-Google-Drive/archive/refs/tags/v2.2.3.zip"> Download Now</a>/h4>
+<h4> v2.2.3<a href="https://github.com/TheCaduceus/Mega-to-Google-Drive/archive/refs/tags/v2.2.3.zip"> Download Now</a></h4>
 <h4> v2.2.2:<a href="https://github.com/TheCaduceus/Mega-to-Google-Drive/archive/refs/tags/v2.2.2.zip"> Download Now</a></h4>
 <h4> v2.2.1:<a href="https://github.com/TheCaduceus/Mega-to-Google-Drive/archive/refs/tags/v2.2.1.zip"> Download Now</a></h4>
 <h2>⛑Contact Us!</h2>
